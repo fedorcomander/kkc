@@ -1,4 +1,4 @@
-# KKV
+# KKC v1.2
 KISS Keychain Configurator
 
 I always wanted to have an easy way to configure my KISS setups.
