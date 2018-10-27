@@ -13,5 +13,7 @@ KISS KEYCHAIN CONFIGURATOR now available in my shop at https://shop.anuta.org/
 Firmware: https://github.com/fedorcomander/kkc/releases
 
 Manuals by Philipp Seidel:
-English: https://blog.seidel-philipp.de/kkc-kiss-keychain-configura…/
-German: https://blog.seidel-philipp.de/kkc-kiss-keychain-configura…/
+
+English: https://blog.seidel-philipp.de/kkc-kiss-keychain-configurator-english/
+
+German: https://blog.seidel-philipp.de/kkc-kiss-keychain-configurator/
