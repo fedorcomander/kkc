@@ -17,3 +17,9 @@ Manuals by Philipp Seidel:
 English: https://blog.seidel-philipp.de/kkc-kiss-keychain-configurator-english/
 
 German: https://blog.seidel-philipp.de/kkc-kiss-keychain-configurator/
+
+# How to flash new firmware:
+
+- Hold joystick right and plug KKC to your computer.
+- Double click on INDEX.HTM on the KKC drive that will appear
+- Download/Copy firmware file to KKC drive
